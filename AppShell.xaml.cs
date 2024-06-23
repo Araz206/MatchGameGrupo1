@@ -1,4 +1,4 @@
-﻿namespace MatchGame6796008;
+﻿namespace Maui;
 
 public partial class AppShell : Shell
 {
